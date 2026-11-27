@@ -1,8 +1,18 @@
 /* Laboratorio SMAE · INCAP — guarda la app en el dispositivo para usarla sin internet.
    Cada versión publicada cambia VERSION; al abrir la app con internet, el navegador detecta el cambio
    y la app muestra «Hay una versión nueva». No envía datos a ningún servidor. */
-const VERSION = 'smae-v0.6.11';
-const FILES = ['./', 'index.html', 'ayuda.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png'];
+const VERSION = 'smae-v2.0.0-f1';
+const FILES = [
+  './',
+  'index.html',
+  'ayuda.html',
+  'manifest.webmanifest',
+  'icon-192.png',
+  'icon-512.png',
+  'datos/meta.json',
+  'datos/smae.json',
+  'datos/incap.json',
+];
 self.addEventListener('install', e => { e.waitUntil(caches.open(VERSION).then(c => c.addAll(FILES))); });
 self.addEventListener('activate', e => {
   e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== VERSION).map(k => caches.delete(k)))).then(() => self.clients.claim()));

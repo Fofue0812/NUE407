@@ -1,0 +1,194 @@
+alimento_smae,pagina_smae,id_smae,codigo_incap,propuesto_por,verificado_por,fecha,estado
+Hígado de res cocido,111,aob-p111-09,5034,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Jamón de pavo,111,aob-p111-15,7011,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Lomo de cerdo,111,aob-p111-17,4041,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Molida de res,112,aob-p112-08,5072,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Pescado blanco cocido,113,aob-p113-14,8069,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Queso fresco,114,aob-p114-09,1031,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Carne molida extra magra cocida,116,aom-p116-08,5070,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Costillar de cerdo,116,aom-p116-16,4009,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Huevo entero cocido,117,aom-p117-13,24011,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Huevo entero fresco,117,aom-p117-14,2002,Apps / Antigravity (F1 §3.4),PENDIENTE Science,2026-11-26,propuesto_f1_pendiente_science
+Requesón promedio,119,aom-p119-11,1065,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Sardinas en tomate,120,aom-p120-04,8040,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Carne molida regular,121,aoa-p121-08,5071,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Costilla de res,122,aoa-p122-02,5074,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Huevo frito,122,aoa-p122-13,24012,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Jamón americano,122,aoa-p122-16,7042,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Mortadela,123,aoa-p123-13,7018,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Queso amarillo,124,aoa-p124-15,1019,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Queso Cotija,125,aoa-p125-15,1028,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Queso Mozzarella,126,aoa-p126-15,1033,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Queso Oaxaca,127,aoa-p127-03,1043,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Salchicha,128,aoa-p128-06,7038,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Leche descremada,132,lds-p132-03,1103,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Leche descremada en polvo,132,lds-p132-05,1012,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Yoghurt light,133,lds-p133-09,1134,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Leche semidescremada 1%,134,lsd-p134-04,1046,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Leche semidescremada 2%,134,lsd-p134-05,1010,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Leche entera,135,len-p135-12,1015,Apps / Antigravity (F1 §3.4),PENDIENTE Science,2026-11-26,propuesto_f1_pendiente_science
+Leche entera,135,len-p135-12,1111,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Leche entera en polvo,135,len-p135-14,1016,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Leche evaporada,135,len-p135-18,1109,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Yoghurt natural,136,len-p136-12,1041,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Helado de vainilla,138,lca-p138-09,18036,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Leche con chocolate,139,lca-p139-01,1079,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Yoghurt de fruta,141,lca-p141-04,1042,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Aceite comestible,144,asp-p144-02,16010,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Aceite de oliva,144,asp-p144-17,16007,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Aguacate mediano,147,asp-p147-07,11005,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Coco rallado,147,asp-p147-18,12177,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Crema,148,asp-p148-05,1074,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Manteca de cerdo,149,asp-p149-17,16012,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Mantequilla,149,asp-p149-19,16016,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Margarina,150,asp-p150-06,16018,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Mayonesa,150,asp-p150-10,20097,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Queso crema,151,asp-p151-01,1026,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Tocino,151,asp-p151-15,4020,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Ajonjolí,153,acp-p153-03,10014,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Almendra,153,acp-p153-06,10001,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Cacahuate,154,acp-p154-04,10010,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Mantequilla de cacahuate,156,acp-p156-06,16043,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Nuez,156,acp-p156-09,10012,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Nuez de la India sin sal en mitades,156,acp-p156-15,10022,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Acelga cocida,14,ver-p14-01,11002,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Apio crudo,14,ver-p14-08,11010,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Berenjena cocida,14,ver-p14-10,11024,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Brócoli cocido,14,ver-p14-15,11028,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Calabacita alargada cruda,14,ver-p14-17,11021,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Calabaza de Castilla cocida,15,ver-p15-01,11210,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Cebolla blanca rebanada,15,ver-p15-03,11036,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Chayote cocido picado,15,ver-p15-13,11048,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Col cocida picada,17,ver-p17-12,11151,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Col cruda picada,17,ver-p17-13,11150,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Coliflor cocida,17,ver-p17-16,11044,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Ejotes cocidos picados,18,ver-p18-12,11072,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Espinaca cocida,18,ver-p18-16,11084,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Flor de yuca cruda,19,ver-p19-06,11100,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Hongos crudos,20,ver-p20-07,11095,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Jitomate,20,ver-p20-12,11157,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Jugo de tomate,21,ver-p21-02,11161,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Lechuga,21,ver-p21-06,11105,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Pepino con cáscara rebanado,22,ver-p22-11,11274,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Pimiento verde crudo chico,23,ver-p23-01,11060,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Rábano crudo rebanado,23,ver-p23-08,11144,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Tomate verde,23,ver-p23-15,11113,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Zanahoria picada cruda,24,ver-p24-07,11169,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Carambolo o carambola,27,fru-p27-01,12015,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Ciruela Criolla roja o amarilla,27,fru-p27-12,12066,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Ciruela pasa deshuesada,27,fru-p27-14,12020,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Durazno amarillo,28,fru-p28-06,12034,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Fresa rebanada,28,fru-p28-14,12042,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Guayaba,29,fru-p29-18,12052,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Jugo de naranja natural,30,fru-p30-13,12106,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Kiwi,30,fru-p30-17,12069,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Mamey,31,fru-p31-03,12152,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Mandarina,31,fru-p31-04,12077,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Mango picado,31,fru-p31-13,12080,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Manzana,31,fru-p31-15,12086,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Maracuyá,32,fru-p32-11,12092,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Marañón fresco,32,fru-p32-13,12091,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Melón picado,32,fru-p32-17,12096,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Nanche agrio,33,fru-p33-04,12102,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Naranja,33,fru-p33-05,12105,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Papaya picada,34,fru-p34-01,12112,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Pasas,34,fru-p34-13,12147,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Pera,34,fru-p34-16,12120,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Piña picada,36,fru-p36-02,12159,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Pitahaya,36,fru-p36-04,12129,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Plátano,36,fru-p36-05,12010,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Plátano Macho,36,fru-p36-09,12165,Apps / Antigravity (F1 §3.4),PENDIENTE Science,2026-11-26,propuesto_f1_pendiente_science
+Plátano Macho,36,fru-p36-09,12130,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Sandía picada,37,fru-p37-12,12134,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Pepitas de calabaza,158,acp-p158-04,10016,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Pistache,158,acp-p158-09,10048,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Semilla de chía,159,acp-p159-05,sin contraparte,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Semilla de girasol,159,acp-p159-06,10047,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Azúcar de mesa,162,asg-p162-12,15001,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Gelatina de fresa de agua,168,asg-p168-07,18012,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Jalea,170,asg-p170-11,15019,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Leche condensada,172,asg-p172-04,1009,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Mermelada de fresa,173,asg-p173-10,15023,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Miel de abeja,173,asg-p173-16,15024,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Paleta helada de agua,174,asg-p174-16,18016,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Piloncillo,175,asg-p175-10,15027,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Refresco de cola,176,asg-p176-09,17017,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Refresco de naranja,176,asg-p176-14,17016,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Salsa catsup,177,asg-p177-04,20071,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Chocolate amargo,180,acg-p180-12,15041,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Chocolate con leche,181,acg-p181-06,15009,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Cocada,183,acg-p183-08,15012,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Mazapán,184,acg-p184-16,sin contraparte,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Achiote,188,lib-p188-01,22045,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Agua,188,lib-p188-03,—,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Café sin azúcar,189,lib-p189-08,17040,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Caldo de pollo,189,lib-p189-13,20006,Apps / Antigravity (F1 §3.4),PENDIENTE Science,2026-11-26,propuesto_f1_pendiente_science
+Canela molida,190,lib-p190-04,22005,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Consomé de pollo,192,lib-p192-04,20103,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Gelatina sin azúcar preparada,193,lib-p193-19,—,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Limón agrio,195,lib-p195-11,12073,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Manzanilla seca,195,lib-p195-14,17156,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Mostaza,196,lib-p196-02,20014,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Pimienta negra,197,lib-p197-07,22019,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Refresco de dieta,197,lib-p197-19,17131,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Toronja,38,fru-p38-04,12139,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Uva,38,fru-p38-12,12145,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Arroz cocido,42,csg-p42-08,13175,Apps / Antigravity (F1 §3.4),PENDIENTE Science,2026-11-26,propuesto_f1_pendiente_science
+Arroz cocido,42,csg-p42-08,13114,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Arroz integral cocido,42,csg-p42-12,13117,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Avena cocida,43,csg-p43-09,13007,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Avena en hojuelas,43,csg-p43-13,13008,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Bolillo,46,csg-p46-01,14131,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Camote cocido,46,csg-p46-10,11034,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Elote desgranado,51,csg-p51-07,11247,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Espagueti cocido,51,csg-p51-10,13058,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Galleta María,53,csg-p53-03,14002,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Galleta salada,53,csg-p53-05,14010,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Harina nixtamalizada,56,csg-p56-02,13033,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Hojuelas de maíz,57,csg-p57-06,13016,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Malanga,59,csg-p59-20,11112,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Masa de maíz,60,csg-p60-04,13055,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Palomitas naturales,61,csg-p61-12,23051,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Pan de caja,62,csg-p62-14,14021,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Pan integral,63,csg-p63-07,14040,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Papa cocida,64,csg-p64-08,11131,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Pinole,66,csg-p66-04,13075,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Tortilla de maíz,67,csg-p67-13,14052,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Tostada de maíz horneada,68,csg-p68-02,14145,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Yuca,68,csg-p68-11,11167,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+"Concha, pan dulce",73,ccg-p73-14,14127,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Dona,74,ccg-p74-10,18005,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Galleta de avena,76,ccg-p76-05,14099,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Galleta sándwich,77,ccg-p77-10,14003,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Granola estándar,78,ccg-p78-14,13102,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Hot cake congelado,79,ccg-p79-12,24016,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Palomitas de mantequilla,82,ccg-p82-07,23002,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Panqué,83,ccg-p83-05,18022,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Tamal de carne,87,ccg-p87-10,24062,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Tamal de elote,87,ccg-p87-11,24303,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Tortilla de harina,87,ccg-p87-17,14142,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Tostada,88,ccg-p88-01,14146,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Totopos de maíz,88,ccg-p88-05,23010,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Alverjón o chícharo seco cocido,90,leg-p90-06,9031,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Frijol molido,90,leg-p90-11,9035,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Frijol promedio cocido,90,leg-p90-12,9035,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Frijoles enteros enlatados,90,leg-p90-14,9018,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+"Frijoles refritos, caseros o enlatados",90,leg-p90-15,9021,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Garbanzo cocido,91,leg-p91-01,9062,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Haba seca cocida,91,leg-p91-04,9066,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Lenteja cocida,91,leg-p91-16,9068,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Soya cocida,92,leg-p92-02,sin contraparte,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Atún en agua drenado,94,aomb-p94-17,8020,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Bistec de res,95,aomb-p95-10,5075,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Camarón cocido,96,aomb-p96-03,8053,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Clara de huevo,98,aomb-p98-02,2004,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Filete de mojarra,99,aomb-p99-15,8056,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Filete de pescado,99,aomb-p99-16,8027,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Pechuga de pollo sin piel,104,aomb-p104-01,3057,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Pollo deshebrado,105,aomb-p105-14,24086,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Queso Cottage,106,aomb-p106-10,1038,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Carne de res (promedio),109,aob-p109-05,5022,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Cuajada cremosa (INCAP),INCAP/GASS,aob-pINCAP-01,1024,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Queso blanco fresco de leche entera (INCAP),INCAP/GASS,aoa-pINCAP-01,1029,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+"Plátano verde frito, tostones (INCAP)",INCAP/GASS,ccg-pINCAP-01,24266,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
+Plátano maduro frito (INCAP),INCAP/GASS,ccg-pINCAP-02,24265,v0.6.11 (D228),Auditoría v0.6.9/v0.6.11,2026-11-11,existente_v0.6.11
